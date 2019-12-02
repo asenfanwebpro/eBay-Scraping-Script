@@ -1,0 +1,18 @@
+see: https://bit.ly/35vL43I and https://bit.ly/2MBFLqR
+
+
+1) Scrape Google/Yelp Business for medical clinics 
+2) Then we publish each business profile on our website similar to links above just like how like bird eye does 
+3) Setup cron, so scrapes Google/Yelp page and updates their profile monthly 
+
+
+I have summarized it for you.Project is to do exactly what Bird Eye is doing.
+
+As you can see, their algorithm searches Google Places for "Medical Practices" and automatically creates a unique page for them. Then they aggregate all the Google/Yelp/FB reviws and posts it on their public page 
+
+How do you plan on handling monthly checks on google and yelp so that the new reviews get posted on the public page?
+I think google has a limit of how many crawls
+
+I want you to predict the challenges and obstacles so you can work around it.
+
+In your demo, we need to see how you plan on how system will automatically create a unique URL for the profile page on the server for the "Endodontic" dental clinic business based on google places. Just like how Bird eye does. Then aggregate the google reviews/yelp/fb reviews for it on the profile page.
