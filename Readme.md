@@ -1,4 +1,4 @@
-#eBay Scraping Script
+# eBay Scraping Script
 
 Your system should automatically create a business profile page  showing their google/fb/yelp reviews on one page. Since there will be 1000+ businesses, there will be 1000+ individual pages which help with google ranking
 
