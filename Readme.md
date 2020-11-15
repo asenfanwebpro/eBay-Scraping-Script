@@ -1,3 +1,5 @@
+#eBay Scraping Script
+
 Your system should automatically create a business profile page  showing their google/fb/yelp reviews on one page. Since there will be 1000+ businesses, there will be 1000+ individual pages which help with google ranking
 
 For instance, the system has automatically generated a business profile page like https://birdeye.com/advanced-endodontics-601695872   just for Advanced Endodontics
